@@ -1,0 +1,7 @@
+{
+  "name": "Kurafuto - The Artisan Marketplace",
+  "description": "Kurafuto helps local artisans market their crafts through AI storytelling, image enhancement, and a powerful dashboard to grow their business, powered by Google's Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
