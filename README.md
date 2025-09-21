@@ -1,7 +1,7 @@
 # Kurafuto – AI-Powered Marketplace Assistant for Local Artisans
 
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/UchihaDZoro/Kurafuto---AI-Powered-Marketplace-Assistant-for-local-Artisans-/refs/heads/main/Gemini_Generated_Image_o5tplno5tplno5tp.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/UchihaDZoro/Kurafuto---AI-Powered-Marketplace-Assistant-for-local-Artisans-/refs/heads/main/Gemini_Generated_Image_f501jdf501jdf501.png" />
 </div>  
 
 Kurafuto is an **AI-driven platform** designed to empower local artisans by helping them market their craft, tell their stories, and expand their reach to digital audiences. Built with **Google Cloud’s Generative AI (Gemini)**, the platform bridges traditional craftsmanship with modern digital tools.
