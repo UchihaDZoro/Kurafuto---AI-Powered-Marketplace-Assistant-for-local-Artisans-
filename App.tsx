@@ -3,7 +3,7 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import ExplorePage from './components/ExplorePage';
 import StoriesPage from './components/StoriesPage';
-import ArtisanProfile from './components/ArtisanProfile';
+import ArtisanProfile from './components/ArtisanProfile'; 
 import ArtisanOnboarding from './components/ArtisanOnboarding';
 import LandingPage from './components/LandingPage';
 import ThemeToggle from './components/ThemeToggle';
